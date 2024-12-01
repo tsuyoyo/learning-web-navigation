@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app-repo/static/css/main.e6c13ad2.css",
-    "main.js": "/my-app-repo/static/js/main.16594402.js",
-    "static/js/453.4b9c34ad.chunk.js": "/my-app-repo/static/js/453.4b9c34ad.chunk.js",
-    "index.html": "/my-app-repo/index.html",
-    "main.e6c13ad2.css.map": "/my-app-repo/static/css/main.e6c13ad2.css.map",
-    "main.16594402.js.map": "/my-app-repo/static/js/main.16594402.js.map",
-    "453.4b9c34ad.chunk.js.map": "/my-app-repo/static/js/453.4b9c34ad.chunk.js.map"
+    "main.css": "/learning-web-navigation/static/css/main.e6c13ad2.css",
+    "main.js": "/learning-web-navigation/static/js/main.bdda77b3.js",
+    "static/js/453.4b9c34ad.chunk.js": "/learning-web-navigation/static/js/453.4b9c34ad.chunk.js",
+    "index.html": "/learning-web-navigation/index.html",
+    "main.e6c13ad2.css.map": "/learning-web-navigation/static/css/main.e6c13ad2.css.map",
+    "main.bdda77b3.js.map": "/learning-web-navigation/static/js/main.bdda77b3.js.map",
+    "453.4b9c34ad.chunk.js.map": "/learning-web-navigation/static/js/453.4b9c34ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.16594402.js"
+    "static/js/main.bdda77b3.js"
   ]
 }
